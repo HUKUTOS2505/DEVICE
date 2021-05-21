@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd28893c-d539-4368-aad2-b03a820eb365" name="Default Changelist" comment="новый файл" />
+    <list default="true" id="bd28893c-d539-4368-aad2-b03a820eb365" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/текст.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +19,6 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/nikita.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/текст.txt" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1soWzJTLTyBz6nYnF5MjFCJ9sDM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
